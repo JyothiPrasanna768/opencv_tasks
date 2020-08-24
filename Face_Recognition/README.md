@@ -1,1 +1,1 @@
-Opencv based face recognition
+OpenCv based face recognition
